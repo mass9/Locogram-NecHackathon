@@ -1,5 +1,7 @@
 # NECHackathon : Locogram
-Repositry of project created for **NEC Hackathon***<br/>
+Repositry of project created for **NEC Hackathon**<br>
+[Click here to redirect to video](https://www.instagram.com/tv/CDMWCEwJy2b/)
+
 [ All codes files have been removed unfortunately. :neutral_face:  Will make from scratch again in future :octocat:]
 <br><br>
 ![Screenshot_final Logo](https://github.com/mass9/NECHackathon/blob/master/1.png)
@@ -12,7 +14,7 @@ The idea is to encourage people to shift from personal transport to public trans
  Please read the pdf file in this repository.
 
 ## Description: 
-<br> Simulation Video can be found here : [Click here to redirect to video]
+<br> Simulation Video can be found here : [Click here to redirect to video](https://www.instagram.com/tv/CDMWCEwJy2b/)
 
 <br/>We will be solving Economic problem which will improve lifestyle of middle class people and poor people. <br/>
 The problem we are solving:
@@ -49,15 +51,8 @@ List of who participated in this project:<br/>
 | Ishan Badhe  | **Frontend Developer**  |
 | Prateek Bagre  | **UI/UX Designer**  |
 <br>
+
 # Acknowledgments
 >We are living in future :rocket:<br/>
 >Inspiration :sparkles: <br/>
 >etc :octocat:
-
-
-# Credentials
-
-Platform | E-mail | Password
------------- | ------------- | -------------
-Heroku | pksimpleid2@gmail.com | Issue request on github
-Atlas | pevocif632@seomail.top | Issue request on github
