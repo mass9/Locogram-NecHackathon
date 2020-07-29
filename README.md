@@ -1,6 +1,6 @@
 # NECHackathon : Locogram
 Repositry of project created for **NEC Hackathon**<br>
-[Click here to redirect to video](https://www.instagram.com/tv/CDMWCEwJy2b/)
+[Click here to redirect to video](https://www.instagram.com/p/CDPMqAbJt18/)
 
 [ All codes files have been removed unfortunately. :neutral_face:  Will make from scratch again in future :octocat:]
 <br><br>
@@ -14,7 +14,7 @@ The idea is to encourage people to shift from personal transport to public trans
  Please read the pdf file in this repository.
 
 ## Description: 
-<br> Simulation Video can be found here : [Click here to redirect to video](https://www.instagram.com/tv/CDMWCEwJy2b/)
+<br> Simulation Video can be found here : [Click here to redirect to video](https://www.instagram.com/p/CDPMqAbJt18/)
 
 <br/>We will be solving Economic problem which will improve lifestyle of middle class people and poor people. <br/>
 The problem we are solving:
