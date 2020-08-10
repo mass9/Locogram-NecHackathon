@@ -2,7 +2,7 @@
 Repositry of project created for **NEC Hackathon**<br>
 [Click here to redirect to video](https://www.instagram.com/p/CDPMqAbJt18/)
 
-[ All codes files have been removed unfortunately. :neutral_face:  Will make from scratch again in future :octocat:]
+[ All codes files have been removed unfortunately. :neutral_face:  Will make from scratch again in future for production :octocat:]
 <br><br>
 ![Screenshot_final Logo](https://github.com/mass9/NECHackathon/blob/master/1.png)
 # Project Title
